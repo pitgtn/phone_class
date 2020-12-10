@@ -1,3 +1,4 @@
+#test
 from classes import PhoneNumber
 
 print("Список команд:\n Q(q) - выход\n W(w) - запись в файл\n F(f) - вывод допустимых форматов номеров телефонов\n "
